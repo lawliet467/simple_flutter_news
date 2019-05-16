@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github.com/Lawliet467/simple_flutter_news/blob/master/imgs/1.png" width="200"/>
   <img src="https://github.com/Lawliet467/simple_flutter_news/blob/master/imgs/2.png" width="200"/>
-  <img src="https://github.com/Lawliet467/simple_flutter_news/blob/master/imgs/3.png" width="200"/>
+  <img src="https://github.com/Lawliet467/simple_flutter_news/blob/master/imgs/gif.gif" width="200"/>
 </p>
 
 ## Resources
